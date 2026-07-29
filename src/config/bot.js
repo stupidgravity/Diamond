@@ -274,7 +274,7 @@ export const botConfig = {
     // 300000 = 5 minutes.
     minimumDuration: 300000,
     // 2592000000 = 30 days.
-    maximumDuration: 2592000000,
+    maximumDuration: 9743627567469578634756376573676,
 
     // Role IDs allowed to host giveaways.
     allowedRoles: [],
