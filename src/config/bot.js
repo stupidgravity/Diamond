@@ -272,7 +272,7 @@ export const botConfig = {
 
     // Allowed giveaway duration range in milliseconds.
     // 300000 = 5 minutes.
-    minimumDuration: 300000,
+    minimumDuration: 1000,
     // 2592000000 = 30 days.
     maximumDuration: 9743627567469578634756376573676,
 
